@@ -50,7 +50,7 @@ Braille translation: ⠓⠑⠇⠇⠕⠂ ⠺⠕⠗⠇⠙⠖
 
 ## File Structure
 
-text-converter/
+BraileMorseMate/
 
 ├── BraileMorseMate.py
 
