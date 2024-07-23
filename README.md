@@ -19,7 +19,7 @@ A tool for converting text to Braille and Morse code, and for decoding Braille a
 
 2. Run the Python program:
     ```sh
-    python text_converter.py
+    python BrailleMorseMate.py
     ```
 
 3. Choose the conversion type:
@@ -38,7 +38,7 @@ Welcome to the text converter. Choose the conversion type:
 2: Braille to Text
 3: Text to Morse Code
 
-Enter choice (0, 1, 2, or 3): 1
+Enter choice (0, 1, 2, or 3): 2
 Enter text to convert:
 Hello, World!
 Braille translation: ⠓⠑⠇⠇⠕⠂ ⠺⠕⠗⠇⠙⠖
