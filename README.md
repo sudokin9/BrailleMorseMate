@@ -51,7 +51,9 @@ Braille translation: ⠓⠑⠇⠇⠕⠂ ⠺⠕⠗⠇⠙⠖
 ## File Structure
 
 text-converter/
+
 ├── BraileMorseMate.py
+
 └── README.md
 
 
